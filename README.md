@@ -157,10 +157,11 @@ Through this project, I strengthened my ability to:
 **Sneha Varma. C**
 
 First-Year B.Tech (Artificial Intelligence) Student
+
 SRM Institute of Science and Technology, Ramapuram Campus
 
 📍 Chennai, India
-✉️ Email: [varmasneha582@gmail.com](mailto:varmasneha582@gmail.com)
+✉️ Email: varmasneha582@gmail.com
 
 ---
 
